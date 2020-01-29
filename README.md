@@ -1,1 +1,1 @@
-# OpenCV_image_and_video_processing
+# OpenCV image and video processing
