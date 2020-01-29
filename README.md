@@ -1,12 +1,12 @@
 # OpenCV image and video processing
 
-Install the openCV library:  
+*Install the openCV library:*
 **pip install opencv-python**
 
-To import the library:  
+*To import the library:*  
 **import cv2**
 
-Objectives:
+## Objectives:
 - Load images
 - Display images
 - Resize images
