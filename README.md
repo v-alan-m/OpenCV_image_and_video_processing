@@ -6,9 +6,9 @@ python version: 3.7.4
 **pip install opencv-python**
 
 ### If using the conda enviroment:
-pip uninstall the pacakge, if you have already installed using pip: 
+pip uninstall the pacakge, if you have already installed using pip:  
 **pip uninstall opencv-python**
-Install the conda installation
+Install the conda installation:  
 **conda install -c conda-forge opencv**
 
 ## Import the library:
